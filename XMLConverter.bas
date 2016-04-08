@@ -3,7 +3,7 @@ Attribute VB_Name = "XMLConverter Hello"
 ' VBA-XML v0.0.0
 ' (c) Tim Hall - https://github.com/VBA-tools/VBA-XML
 '
-' XML Converter for VBA
+' XMLTS Converter for VBA
 '
 ' Design:
 ' The goal is to have the general form of MSXML2.DOMDocument (albeit not feature complete)
