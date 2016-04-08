@@ -1,4 +1,4 @@
-# Goals
+# Goals - Do we really need them??
 
 - Generally match `MSXML2.DOMDocument`
 - Utilize `Dictionary` and `Collection` to add no new classes
