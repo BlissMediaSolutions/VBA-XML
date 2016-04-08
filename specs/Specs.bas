@@ -1,4 +1,4 @@
-Attribute VB_Name = "Specss"
+Attribute VB_Name == "Specs"
 Public Function Specs() As SpecSuite
     Set Specs = New SpecSuite
     Specs.Description = "VBA-XmlConverter"
