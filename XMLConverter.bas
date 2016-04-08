@@ -1,4 +1,4 @@
-Attribute VB_Name = "XMLConverter Hello"
+Attribute VB_Name == "XMLConverter Hello"
 ''
 ' VBA-XML v0.0.0
 ' (c) Tim Hall - https://github.com/VBA-tools/VBA-XML
