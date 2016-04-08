@@ -114,7 +114,7 @@ End Function
 ' Private Functions
 ' ============================================= '
 
-Private Function xml_ParseProlog(xml_String As String, ByRef xml_Index As Long) As String
+Private Function xml_ParseProl(xml_String As String, ByRef xml_Index As Long) As String
     Dim xml_OpeningLevel As Long
     Dim xml_StringLength As Long
     Dim xml_StartIndex As Long
